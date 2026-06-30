@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/weather_wizard.egg-info/PKG-INFO
+src/weather_wizard.egg-info/SOURCES.txt
+src/weather_wizard.egg-info/dependency_links.txt
+src/weather_wizard.egg-info/entry_points.txt
+src/weather_wizard.egg-info/requires.txt
+src/weather_wizard.egg-info/top_level.txt
