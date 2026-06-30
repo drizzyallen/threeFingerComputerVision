@@ -1,0 +1,4 @@
+opencv-python #opencv allows us to do screen recording. , 
+mediapipe #Media pipe from google (what registers our hand and whats on screen)
+pyautogui
+numpy #math for gravity of items

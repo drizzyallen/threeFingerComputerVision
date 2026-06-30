@@ -1,0 +1,1 @@
+from weather_wizard.core.weather_wizard import WeatherWizard
